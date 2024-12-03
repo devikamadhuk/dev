@@ -1,0 +1,2 @@
+print("hello world")
+rdd1=sc.parallelize([1,"apple",3,345.00,"grapes"])
